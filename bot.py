@@ -19,7 +19,7 @@ app = FastAPI(
 # ============================================================
 # 🤖 إعدادات تليجرام — أُضيفت كما طلبت بالضبط
 # ============================================================
-TELEGRAM_BOT_TOKEN = "8553854847:AAHDF-hEfS9_bxq-B3wLcBbT9LnKNouDj-c"
+TELEGRAM_BOT_TOKEN = "8829397342:AAFvJVy9rElo8gk1Wb76TtpjCJlGDjaDDY0"
 TELEGRAM_BOT_ID = "8674500253"
 TELEGRAM_ENABLED = bool(TELEGRAM_BOT_TOKEN)
 TELEGRAM_API = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}" if TELEGRAM_ENABLED else ""
