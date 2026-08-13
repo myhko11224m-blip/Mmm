@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-python-telegram-bot
-yfinance
 requests
+yfinance
 pandas
 numpy
-python-multipart
