@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-telegram-bot
+yfinance
+requests
+pandas
+numpy
+python-multipart
